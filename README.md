@@ -13,6 +13,8 @@ git clone https://github.com/dakotaJang/tfjs-examples-typescript/tree/0-Getting-
 
 cd 0-Getting-Started
 
+npm install
+
 npm start
 ```
 
@@ -132,3 +134,5 @@ Run your project
 ```
 npm start
 ```
+If you don't see what you expect on the browser, check/wait to see if the webpack have finnished packing your code and then refresh the browser.
+
