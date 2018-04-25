@@ -9,3 +9,6 @@ Some of the differences here are:
 This repository is divided into separate branches for each examples.
 
 0. <a href="https://github.com/dakotaJang/tfjs-examples-typescript/tree/0-Getting-Started">Getting Started</a>
+1. <a href="https://github.com/dakotaJang/tfjs-examples-typescript/tree/1-Core-Concepts-in-TensorFlow.js">Core Concepts in TensorFlow.js</a>
+2. <a href="https://github.com/dakotaJang/tfjs-examples-typescript/tree/2-Training-First-Steps">Training First Steps: Fitting a Curve to Synthetic Data</a>
+3. <a href="https://github.com/dakotaJang/tfjs-examples-typescript/tree/3-Training-on-images">Training on Images: Recognizing Handwritten Digits with a Convolutional Neural Network</a>
